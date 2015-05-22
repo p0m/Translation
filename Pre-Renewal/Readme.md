@@ -1,1 +1,1 @@
-รวมไฟล์ที่แปลสำหรับ Data Pre-Renawal
+รวมไฟล์ที่แปลสำหรับ Data Pre-renewal
