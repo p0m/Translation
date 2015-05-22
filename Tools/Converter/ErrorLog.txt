@@ -1,0 +1,3615 @@
+This file contains the list of parse errors. Usually only the first error that is matters.
+
+Parse error near the following entry:
+(near to:
+19697 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+17213”
+Γ‚ζ‚θ“`‚ν‚ι‰©F‚Ά” B
+‰½‚ªo‚ι‚©‚ΝJ‚―‚Δ‚‚Δ‚Μ
+‚¨y‚µ‚B
+\\\\\\\\\\\\\
+d—Κ : ^77777710^000000
+
+
+
+Parse error near the following entry:
+(near to:
+5130 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+15092 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+18847 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+20723 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+22034 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+19700 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+17280 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+19556 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+J‚―‚ι‚Ζί‘•‘•”υ‚ª”ς‚Ρo‚·
+•sv‹c‚Θ‚½‚‚²B
+\\\\\\\\\\\\\
+Θ‰Ί‚Μί‘•‘•”υ‚Μ‚Ά‚Έ‚κ‚©
+1‚Β‚ªƒ‰ƒ“ƒ_ƒ€‚Εo»‚·‚ιB^0000FF
+E[ί‘•] ‰Τ‚ΜƒJƒ`ƒ…[ƒVƒƒ
+E[ί‘•] ‚Θ‚©‚ζ‚µ
+@@@@   ƒ‚ƒ`ƒƒ“–X
+E[ί‘•] ƒpƒOƒ_ƒ„
+E[ί‘•] •Φ‰¤‚Μ–Xq
+E[ί‘•] ƒuƒ‹[ƒƒ{ƒ“
+E[ί‘•] ‘D’·‚ΜƒpƒCƒv
+E[ί‘•] O’iƒ|ƒƒ“–X
+E[ί‘•] •—Τ‚Μ‚©‚ρ‚΄‚µ
+E[ί‘•] ƒJƒuƒLƒ}ƒXƒN
+E[ί‘•] –‚–@‚Μ‚β‚©‚ρ^000000
+\\\\\\\\\\\\\
+d—Κ : ^7777771^000000
+
+
+
+Parse error near the following entry:
+(near to:
+19688 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+19689 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+19690 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+19691 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+19692 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+19693 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+19694 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+19695 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+19696 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+19650 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+19698 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+19699 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+7362 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+7363 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+uκ—pƒ}ƒbƒvƒ`ƒPƒbƒgAv‚ª
+“‚Α‚½” B
+\\\\\\\\\\\\\
+d—Κ : ^7777771^000000
+
+
+
+Parse error near the following entry:
+(near to:
+7364 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+uκ—pƒ}ƒbƒvƒ`ƒPƒbƒgBv‚ª
+“‚Α‚½” B
+\\\\\\\\\\\\\
+d—Κ : ^7777771^000000
+
+
+
+Parse error near the following entry:
+(near to:
+7365 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+uκ—pƒ}ƒbƒvƒ`ƒPƒbƒgCv‚ª
+“‚Α‚½” B
+\\\\\\\\\\\\\
+d—Κ : ^7777771^000000
+
+
+
+Parse error near the following entry:
+(near to:
+7366 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+uκ—pƒ}ƒbƒvƒ`ƒPƒbƒgDv‚ª
+“‚Α‚½” B
+\\\\\\\\\\\\\
+d—Κ : ^7777771^000000
+
+
+
+Parse error near the following entry:
+(near to:
+7367 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+uκ—pƒ}ƒbƒvƒ`ƒPƒbƒgEv‚ª
+“‚Α‚½” B
+\\\\\\\\\\\\\
+d—Κ : ^7777771^000000
+
+
+
+Parse error near the following entry:
+(near to:
+7461 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+uκ—pƒ}ƒbƒvƒ`ƒPƒbƒgGv‚ª
+“‚Α‚½” B
+\\\\\\\\\\\\\
+d—Κ : ^7777771^000000
+
+
+
+Parse error near the following entry:
+(near to:
+7462 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+κ—pƒ}ƒbƒv‚Ι“κ‚·‚ιΧ‚Ι
+•K—v‚Θ“Α•Κ‚Θƒ`ƒPƒbƒgB
+\\\\\\\\\\\\\
+d—Κ : ^7777770^000000
+
+
+
+Parse error near the following entry:
+(near to:
+7463 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+κ—pƒ}ƒbƒv‚Ι“κ‚·‚ιΧ‚Ι
+•K—v‚Θ“Α•Κ‚Θƒ`ƒPƒbƒgB
+\\\\\\\\\\\\\
+d—Κ : ^7777770^000000
+
+
+
+Parse error near the following entry:
+(near to:
+7464 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+κ—pƒ}ƒbƒv‚Ι“κ‚·‚ιΧ‚Ι
+•K—v‚Θ“Α•Κ‚Θƒ`ƒPƒbƒgB
+\\\\\\\\\\\\\
+d—Κ : ^7777770^000000
+
+
+
+Parse error near the following entry:
+(near to:
+7465 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+κ—pƒ}ƒbƒv‚Ι“κ‚·‚ιΧ‚Ι
+•K—v‚Θ“Α•Κ‚Θƒ`ƒPƒbƒgB
+\\\\\\\\\\\\\
+d—Κ : ^7777770^000000
+
+
+
+Parse error near the following entry:
+(near to:
+7466 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+κ—pƒ}ƒbƒv‚Ι“κ‚·‚ιΧ‚Ι
+•K—v‚Θ“Α•Κ‚Θƒ`ƒPƒbƒgB
+\\\\\\\\\\\\\
+d—Κ : ^7777770^000000
+
+
+
+Parse error near the following entry:
+(near to:
+1672 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+κ—pƒ}ƒbƒv‚Ι“κ‚·‚ιΧ‚Ι
+•K—v‚Θ“Α•Κ‚Θƒ`ƒPƒbƒgB
+\\\\\\\\\\\\\
+d—Κ : ^7777770^000000
+
+
+
+Parse error near the following entry:
+(near to:
+1837 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+2985 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+15099 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+18868 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+1299 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+1319 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+1399 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+1437 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+1495 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+1591 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+1667 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+1834 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+1932 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+1987 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+2019 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+2178 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+2179 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+2180 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+2496 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+2497 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+2498 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+2944 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+2945 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+2946 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+6592 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+6594 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+ƒMƒ‹ƒhΤ‚Ι‰B‚³‚κ‚Δ‚Ά‚ι
+¬‚³‚Θ” B
+’N‚©‚Ι‚Ν‚Ζ‚Δ‚ΰd—v‚Θ‚ ‚κ‚ª
+“‚Α‚Δ‚Ά‚ι‚η‚µ‚ΆB
+\\\\\\\\\\\\\
+d—Κ : ^7777771^000000
+
+
+
+Parse error near the following entry:
+(near to:
+6595 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+ƒ‹[ƒ“–‚p‚Ι‚ζ‚Α‚Δ–‚—Ν‚ª
+‚ί‚η‚κ‚½Β“Ί’’‰ςB
+‹­—Ν‚Θ–‚—Ν‚ª΄‚¶‚η‚κ‚ιB
+\\\\\\\\\\\\\
+d—Κ : ^777777100^000000
+
+
+
+Parse error near the following entry:
+(near to:
+6596 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+’b–θtƒ”ƒFƒ‹ƒ“ƒh‚Μ‹ΰ’ΖB
+’·‚ΆΤAg—p‚³‚κ‚Δ‚Ά‚½
+‚ζ‚¤‚ΎB
+\\\\\\\\\\\\\
+d—Κ : ^77777750^000000
+
+
+
+Parse error near the following entry:
+(near to:
+6597 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+’b–θtƒ”ƒFƒ‹ƒ“ƒh‚Μ‹ΰ•~B
+’·‚ΆΤA“`ΰ“I‚Θ•¨‚π
+μ‚Α‚Δ‚«‚½B
+\\\\\\\\\\\\\
+d—Κ : ^777777200^000000
+
+
+
+Parse error near the following entry:
+(near to:
+6598 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+¤‚·‚ιΘ‚Μ‚½‚ί‚Ιƒ”ƒFƒ‹ƒ“ƒh
+‚ªμ‚Α‚½r—Φ‚Μ’†‚Μ‚Π‚Ζ‚ΒB
+”—‚Ι‚―‚η‚κ‚Δ‚Ά‚ι^ΐ‚Θ
+¤‚ª‚ί‚η‚κ‚Δ‚Ά‚ιB
+\\\\\\\\\\\\\
+d—Κ : ^77777750^000000
+
+
+
+Parse error near the following entry:
+(near to:
+6599 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+‹‘ε‚ΘΦhƒƒ‹ƒ€ƒ“ƒKƒ“ƒhh
+‚Μ]B
+M‚¶‚η‚κ‚Θ‚Ά‚Ω‚Η‚Μ‹­“x‚Ζ
+‘ε‚«‚³‚πΦ‚ιB
+\\\\\\\\\\\\\
+d—Κ : ^7777771000^000000
+
+
+
+Parse error near the following entry:
+(near to:
+6600 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+ƒI[ƒfƒBƒ“‚Ι•t‚«“Y‚¤ƒJƒ‰ƒX
+‚Ε‚ ‚ιhƒtƒMƒ“h‚Μ°‚π
+`σ‰»‚µ‚½•¨B
+‹‘ε‚Θ–‚—Ν‚π‚Β
+ƒƒ‹ƒ€ƒ“ƒKƒ“ƒh‚Μ—Ν‚π
+—}‚¦‚Δ‚­‚κ‚ι‚η‚µ‚ΆB
+\\\\\\\\\\\\\
+d—Κ : ^77777710^000000
+
+
+
+Parse error near the following entry:
+(near to:
+6601 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+ƒI[ƒfƒBƒ“‚Ι•t‚«“Y‚¤ƒJƒ‰ƒX
+‚Ε‚ ‚ιhƒ€ƒjƒ“h‚Μ°‚π
+`σ‰»‚µ‚½•¨B
+‹‘ε‚Θ–‚—Ν‚π‚Β
+ƒƒ‹ƒ€ƒ“ƒKƒ“ƒh‚Μ—Ν‚π
+—}‚¦‚Δ‚­‚κ‚ι‚η‚µ‚ΆB
+\\\\\\\\\\\\\
+d—Κ : ^77777710^000000
+
+
+
+Parse error near the following entry:
+(near to:
+6602 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+‚Ζ‚Δ‚Β‚ΰ‚Θ‚Ά‹­“x‚πΦ‚ιβΞ
+‚Ε‚ΰ‚±‚Μ‚½‚ª‚Λ‚πg—p‚·‚ι‚Ζ
+ν‚ι‚±‚Ζ‚ª‰Β”\‚Ύ‚Ζ“`‚ν‚Α‚Δ
+‚Ά‚ιB
+‹l‘°‚Μ•¨‚Θ‚Μ‚Ε‚Ζ‚Δ‚ΰ
+‹‘ε‚Εg—p‚·‚ι‚Μ‚ª“ο‚µ‚Ά
+‚Μ‚ª–β‘θB
+\\\\\\\\\\\\\
+d—Κ : ^777777100^000000
+
+
+
+Parse error near the following entry:
+(near to:
+6603 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+ƒI[ƒfƒBƒ“‚Μ—Ν‚πΨ‚θ‚ι
+‚½‚ί‚ΜF‚ρ‚Θƒ‹[ƒ“–‚p‚ª
+‘‚©‚κ‚Δ‚Ά‚ιΓ‚Ά–{B
+\\\\\\\\\\\\\
+d—Κ : ^77777710^000000
+
+
+
+Parse error near the following entry:
+(near to:
+6615 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+‰φ’Ή‚Μ•ªϊ‚Ά”ηB
+‹‘ε‚Θ–‚—Ν‚π‚Β
+ƒƒ‹ƒ€ƒ“ƒKƒ“ƒh‚Μ—Ν‚π
+—}‚¦‚Δ‚­‚κ‚ι‚η‚µ‚ΆB
+\\\\\\\\\\\\\
+d—Κ : ^77777750^000000
+
+
+
+Parse error near the following entry:
+(near to:
+11557 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+ƒ~ƒbƒhƒKƒ‹ƒh‘ε—¤‚Ι‘¶‚·‚ι
+‚·‚Χ‚Δ‚ΜƒMƒ‹ƒhι‚Ε‘½—l‚Θ
+‹ΖΡ‚πΜ‚¦‚ι‚½‚ί‚Ιμ‚η‚κ‚½
+‹L”OƒRƒCƒ“B
+‘½‚­W‚ί‚ι‚Ζ‚³‚η‚Ι“Α•Κ‚Θ
+ƒAƒCƒeƒ€‚Ζπ·‚ª‰Β”\‚ΎB
+\\\\\\\\\\\\\
+d—Κ : ^7777771^000000
+
+
+
+Parse error near the following entry:
+(near to:
+11558 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+UινTE’nζ‚Ε‚Μ‚A
+g—p‰Β”\B
+”’ƒn[ƒu‚π‚ζ‚­”Ò‚Ά‚Δμ‚Α‚½
+‘Μ—Ν‰ρ•B
+^000088HP‚π325‚Ω‚Η‰ρ•^000000‚µ‚Δ
+‚­‚κ‚ιB
+\\\\\\\\\\\\\
+d—Κ : ^77777730^000000
+
+
+
+Parse error near the following entry:
+(near to:
+12873 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+UινTE’nζ‚Ε‚Μ‚A
+g—p‰Β”\B
+UινTE”’ƒ|[ƒVƒ‡ƒ“
+‚Ζψ”\‚ª“―‚¶‚Ύ‚ªA
+‚Ν‚ι‚©‚Ιy‚ΆB
+\\\\\\\\\\\\\
+d—Κ : ^77777710^000000
+
+
+
+Parse error near the following entry:
+(near to:
+12876 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+UινTEƒzƒƒCƒgƒXƒƒ€
+ƒ|[ƒVƒ‡ƒ“‚ª10Β“‚Α‚Δ‚Ά‚ι
+” B
+\\\\\\\\\\\\\
+d—Κ : ^77777710^000000
+
+
+
+Parse error near the following entry:
+(near to:
+12877 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+»–ς¤‹†‚Μ’Έ“_‚Ι—§‚Α‚½
+wÒƒrƒ“ƒZƒ“ƒg‚ª»μ‚µ‚½
+ƒ|[ƒVƒ‡ƒ“B
+‚Ζ‚Δ‚ΰ’Z‚ΆΤ‚Ύ‚ª’΄l“I‚Θ
+”\—Ν‚πg‚¤‚±‚Ζ‚ª‚Ε‚«‚ι
+‚ζ‚¤‚Ι‚Θ‚ιB
+\\\\\\\\\\\\\
+uΤ“I‚ΙHP‚π3000Έ‚¤‚ªA
+10•bΤ‚Νβ‘Ξ‚ΙƒXƒ^ƒ“σ‘Τ‚Ι
+‚Θ‚η‚Θ‚Ά
+\\\\\\\\\\\\\
+d—Κ : ^7777771^000000
+
+
+
+Parse error near the following entry:
+(near to:
+12878 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+»–ς¤‹†‚Μ’Έ“_‚Ι—§‚Α‚½
+wÒƒrƒ“ƒZƒ“ƒg‚ª»μ‚µ‚½
+ƒ|[ƒVƒ‡ƒ“B
+‚Ζ‚Δ‚ΰ’Z‚ΆΤ‚Ύ‚ª’΄l“I‚Θ
+”\—Ν‚πg‚¤‚±‚Ζ‚ª‚Ε‚«‚ι
+‚ζ‚¤‚Ι‚Θ‚ιB
+\\\\\\\\\\\\\
+uΤ“I‚ΙHP‚π3000Έ‚¤‚ªA
+10•bΤ‚Νβ‘Ξ‚ΙΞ‰»σ‘Τ‚Ι
+‚Θ‚η‚Θ‚Ά
+\\\\\\\\\\\\\
+d—Κ : ^7777771^000000
+
+
+
+Parse error near the following entry:
+(near to:
+12879 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+»–ς¤‹†‚Μ’Έ“_‚Ι—§‚Α‚½
+wÒƒrƒ“ƒZƒ“ƒg‚ª»μ‚µ‚½
+ƒ|[ƒVƒ‡ƒ“B
+‚Ζ‚Δ‚ΰ’Z‚ΆΤ‚Ύ‚ª’΄l“I‚Θ
+”\—Ν‚πg‚¤‚±‚Ζ‚ª‚Ε‚«‚ι
+‚ζ‚¤‚Ι‚Θ‚ιB
+\\\\\\\\\\\\\
+uΤ“I‚ΙHP‚π3000Έ‚¤‚ªA
+10•bΤ‚Νβ‘Ξ‚Ι“€‹σ‘Τ‚Ι
+‚Θ‚η‚Θ‚Ά
+\\\\\\\\\\\\\
+d—Κ : ^7777771^000000
+
+
+
+Parse error near the following entry:
+(near to:
+12880 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+»–ς¤‹†‚Μ’Έ“_‚Ι—§‚Α‚½
+wÒƒrƒ“ƒZƒ“ƒg‚ª»μ‚µ‚½
+ƒ|[ƒVƒ‡ƒ“B
+‚Ζ‚Δ‚ΰ’Z‚ΆΤ‚Ύ‚ª’΄l“I‚Θ
+”\—Ν‚πg‚¤‚±‚Ζ‚ª‚Ε‚«‚ι
+‚ζ‚¤‚Ι‚Θ‚ιB
+\\\\\\\\\\\\\
+uΤ“I‚ΙHP‚π3000Έ‚¤‚ªA
+10•bΤ‚Νβ‘Ξ‚Ι‡–°σ‘Τ‚Ι
+‚Θ‚η‚Θ‚Ά
+\\\\\\\\\\\\\
+d—Κ : ^7777771^000000
+
+
+
+Parse error near the following entry:
+(near to:
+12881 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+»–ς¤‹†‚Μ’Έ“_‚Ι—§‚Α‚½
+wÒƒrƒ“ƒZƒ“ƒg‚ª»μ‚µ‚½
+ƒ|[ƒVƒ‡ƒ“B
+‚Ζ‚Δ‚ΰ’Z‚ΆΤ‚Ύ‚ª’΄l“I‚Θ
+”\—Ν‚πg‚¤‚±‚Ζ‚ª‚Ε‚«‚ι
+‚ζ‚¤‚Ι‚Θ‚ιB
+\\\\\\\\\\\\\
+uΤ“I‚ΙHP‚π3000Έ‚¤‚ªA
+10•bΤ‚Νβ‘Ξ‚Ιτ‚Άσ‘Τ‚Ι
+‚Θ‚η‚Θ‚Ά
+\\\\\\\\\\\\\
+d—Κ : ^7777771^000000
+
+
+
+Parse error near the following entry:
+(near to:
+12882 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+»–ς¤‹†‚Μ’Έ“_‚Ι—§‚Α‚½
+wÒƒrƒ“ƒZƒ“ƒg‚ª»μ‚µ‚½
+ƒ|[ƒVƒ‡ƒ“B
+‚Ζ‚Δ‚ΰ’Z‚ΆΤ‚Ύ‚ª’΄l“I‚Θ
+”\—Ν‚πg‚¤‚±‚Ζ‚ª‚Ε‚«‚ι
+‚ζ‚¤‚Ι‚Θ‚ιB
+\\\\\\\\\\\\\
+uΤ“I‚ΙHP‚π3000Έ‚¤‚ªA
+10•bΤ‚Νβ‘Ξ‚Ι’Ύ–Ωσ‘Τ‚Ι
+‚Θ‚η‚Θ‚Ά
+\\\\\\\\\\\\\
+d—Κ : ^7777771^000000
+
+
+
+Parse error near the following entry:
+(near to:
+12888 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+»–ς¤‹†‚Μ’Έ“_‚Ι—§‚Α‚½
+wÒƒrƒ“ƒZƒ“ƒg‚ª»μ‚µ‚½
+ƒ|[ƒVƒ‡ƒ“B
+‚Ζ‚Δ‚ΰ’Z‚ΆΤ‚Ύ‚ª’΄l“I‚Θ
+”\—Ν‚πg‚¤‚±‚Ζ‚ª‚Ε‚«‚ι
+‚ζ‚¤‚Ι‚Θ‚ιB
+\\\\\\\\\\\\\
+uΤ“I‚ΙHP‚π3000Έ‚¤‚ªA
+10•bΤ‚Νβ‘Ξ‚ΙΓ•σ‘Τ‚Ι
+‚Θ‚η‚Θ‚Ά
+\\\\\\\\\\\\\
+d—Κ : ^7777771^000000
+
+
+
+Parse error near the following entry:
+(near to:
+13083 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+ƒMƒ‹ƒh‚πx‰‡‚·‚ι–Ϊ“I‚Ε
+x‹‹‚³‚κ‚ι—lX‚ΘƒAƒCƒeƒ€‚ª
+“‚Α‚Δ‚Ά‚ι” B
+x‹‹‚³‚κ‚ιƒAƒCƒeƒ€‚Ν
+‚»‚Μ‚Ι‚ζ‚Α‚Δα‚¤B
+\\\\\\\\\\\\\
+d—Κ : ^77777710^000000
+
+
+
+Parse error near the following entry:
+(near to:
+13117 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+13184 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+13185 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+13186 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+13187 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+13317 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+13439 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+15062 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+15063 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+15064 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+16025 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+18118 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+18732 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+18733 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+18734 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+20702 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+20703 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+20704 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+21006 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+6668 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+6711 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+ƒJƒvƒ‰‚Ι‹‹‚πx‹‹‚·‚ι‚Ζ‚«
+‚Ιg—p‚³‚κ‚ι‹‹—^–ΎΧ‘B
+\\\\\\\\\\\\\
+d—Κ : ^7777775^000000
+
+
+
+Parse error near the following entry:
+(near to:
+19719 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+‚¨‰Ωq‚Μ—dΈ‚ª—pΣ‚µ‚½
+“Α•Κ‚Θƒpƒ[‚ªh‚Α‚½—‘B
+‚½‚­‚³‚ρW‚ί‚ι‚Ζ
+‚Ά‚Ά‚±‚Ζ‚ª‚ ‚θ‚»‚¤‚ΎB
+\\\\\\\\\\\\\
+d—Κ : ^7777770^000000
+
+
+
+Parse error near the following entry:
+(near to:
+18869 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+14645 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+14646 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–³ΐ‚Μ–‚—Ν‚πh‚·
+ƒ”ƒFƒ‹ƒ[ƒuƒu‚Μ‰HB
+‰H‚ªΑ–Ε‚·‚ι‚‚Ε‚ΜΤ‚Ν
+‰½“xg‚Α‚Δ‚ΰ‚Θ‚­‚Θ‚η‚Θ‚ΆB
+\\\\\\\\\\\\\
+^000088g—p‚·‚ι‚Ζ
+ƒ}ƒbƒvγ‚Μƒ‰ƒ“ƒ_ƒ€‚Θ
+κ‚Ιƒ[ƒv‚·‚ι^000000
+\\\\\\\\\\\\\
+^FF0000ƒ”ƒFƒ‹ƒ[ƒuƒu‚Μ‰H‚Ν
+” ‚πJ‚―‚Δ‚©‚η240Τγ‚Ι
+©“®“I‚ΙΑ–Ε‚µ‚‚·B^000000
+\\\\\\\\\\\\\
+d—Κ : ^7777770^000000
+
+
+
+Parse error near the following entry:
+(near to:
+17289 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+‹{’μ—Ώ—lƒIƒ‹ƒƒAƒ“‚Μ
+‹‰Ψ‚Θƒtƒ‹ƒR[ƒX—Ώ—B
+\\\\\\\\\\\\\
+All Status + 10
+Atk + 30
+Matk + 30
+30•ªΤ‘±
+\\\\\\\\\\\\\
+ƒLƒƒƒ‰ƒNƒ^[‚ªν“¬•s”\‚Ι
+‚Θ‚Α‚Δ‚ΰψ‰Κ‚ªΑ‚¦‚Θ‚Ά
+\\\\\\\\\\\\\
+^FF0000ω‘¶‚ΜƒXƒyƒVƒƒƒ‹—Ώ—‚Ζ
+ψ‰Κ‚Νd•΅‚µ‚‚Ή‚ρB^000000
+\\\\\\\\\\\\\
+d—Κ : ^7777771^000000
+
+
+
+Parse error near the following entry:
+(near to:
+17290 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+ƒ”ƒFƒ‹ƒ[ƒuƒu‚Μ‰H‚ª
+1Β“‚Α‚Δ‚Ά‚ι” B
+\\\\\\\\\\\\\
+ƒ”ƒFƒ‹ƒ[ƒuƒu‚Μ‰HF
+–³ΐ‚Μ–‚—Ν‚πh‚·
+ƒ”ƒFƒ‹ƒ[ƒuƒu‚Μ‰HB
+‰H‚ªΑ–Ε‚·‚ι‚‚Ε‚ΜΤ‚Ν
+‰½“xg‚Α‚Δ‚ΰ‚Θ‚­‚Θ‚η‚Θ‚ΆB
+\\\\\\\\\\\\\
+^000088g—p‚·‚ι‚Ζ
+ƒ}ƒbƒvγ‚Μƒ‰ƒ“ƒ_ƒ€‚Θ
+κ‚Ιƒ[ƒv‚·‚ι^000000
+\\\\\\\\\\\\\
+^FF0000ƒ”ƒFƒ‹ƒ[ƒuƒu‚Μ‰H‚Ν
+” ‚πJ‚―‚½ƒLƒƒƒ‰ƒNƒ^[‚Ε
+‚Μ‚——p‰Β”\‚Ε‚·B
+‚ ‚η‚δ‚ιζψAΪ“®‚ª•s‰Β‚Ζ
+‚Θ‚θ‚‚·‚Μ‚ΕAg—p‚µ‚½‚Ά
+ƒLƒƒƒ‰ƒNƒ^[‚Ε” ‚πJ‚―‚Δ
+‚­‚Ύ‚³‚ΆB^000000
+\\\\\\\\\\\\\
+^FF0000ƒ”ƒFƒ‹ƒ[ƒuƒu‚Μ‰H‚Ν
+” ‚πJ‚―‚Δ‚©‚η240Τγ‚Ι
+©“®“I‚ΙΑ–Ε‚µ‚‚·B^000000
+\\\\\\\\\\\\\
+d—Κ : ^7777771^000000
+
+
+
+Parse error near the following entry:
+(near to:
+2982 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+ƒIƒ‹ƒƒAƒ“‚Μƒtƒ‹ƒR[ƒX‚ª
+5Β“‚Α‚Δ‚Ά‚ι” B
+—Ώ—‚ª•…‚η‚Θ‚Ά‚ζ‚¤‚Ι
+“Ακ—‚³‚κ‚Δ‚Ά‚ιB
+\\\\\\\\\\\\\
+ƒIƒ‹ƒƒAƒ“‚Μƒtƒ‹ƒR[ƒXF
+All Status + 10
+Atk + 30
+Matk + 30
+30•ªΤ‘±
+\\\\\\\\\\\\\
+ƒLƒƒƒ‰ƒNƒ^[‚ªν“¬•s”\‚Ι
+‚Θ‚Α‚Δ‚ΰψ‰Κ‚ªΑ‚¦‚Θ‚Ά
+\\\\\\\\\\\\\
+^FF0000ω‘¶‚ΜƒXƒyƒVƒƒƒ‹—Ώ—‚Ζ
+ψ‰Κ‚Νd•΅‚µ‚‚Ή‚ρB^000000
+\\\\\\\\\\\\\
+d—Κ : ^7777771^000000
+
+
+
+Parse error near the following entry:
+(near to:
+17291 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+19709 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+J‚―‚ι‚Ζί‘•‘•”υ‚ª”ς‚Ρo‚·
+•sv‹c‚Θ‚½‚‚²B
+\\\\\\\\\\\\\
+Θ‰Ί‚Μί‘•‘•”υ‚Μ‚Ά‚Έ‚κ‚©
+1‚Β‚ªƒ‰ƒ“ƒ_ƒ€‚Εo»‚·‚ιB^0000FF
+E[ί‘•] ‰©F‚Μƒƒ{ƒ“
+E[ί‘•] ƒSƒVƒbƒN
+@@@@   ƒwƒbƒhƒhƒƒX
+E[ί‘•] —‚Μ—ƒ
+E[ί‘•] ƒJƒvƒ‰‚Μ
+@@@@   ”L¨ƒwƒAƒoƒ“ƒh
+E[ί‘•] ‚½‚κΤ‚ί‚ιÒ
+E[ί‘•] K‰^‚ΜƒNƒ[ƒo[
+E[ί‘•] ƒƒfƒB[ƒ^ƒj[
+@@@@   l`
+E[ί‘•] ƒXƒJ[ƒt
+E[ί‘•] ‚½‚κl`
+E[ί‘•] ƒƒ{ƒ“i“j^000000
+\\\\\\\\\\\\\
+d—Κ : ^7777771^000000
+
+
+
+Parse error near the following entry:
+(near to:
+19710 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+19712 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+19713 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+19714 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+19715 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+19716 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+19717 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+19718 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+19729 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+2181 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+2951 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+2952 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+2953 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+2954 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+18755 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+19585 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+2020 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+6604 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+6605 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+ƒ‹[ƒ“–‚—Ν‚ª“ΰ‚µ‚½Ξ‚Ε
+Μζ‚µ‚Δ‰ΑH‚³‚κ‚½ƒ‹[ƒ“
+–‚—Ν‚ΜW–ρ‘ΜB
+‚±‚Μ—Ν‚π‚‚Ζ‚ΰ‚Ιψ‚«o‚·
+‚±‚Ζ‚ª‚Ε‚«‚ιΧHt‚Ε
+‚Θ‚―‚κ‚ΞA–³—p‚Μ•¨‚Ζ‚Ά‚¤B
+\\\\\\\\\\\\\
+d—Κ : ^7777770^000000
+
+
+
+Parse error near the following entry:
+(near to:
+18860 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+ƒ~ƒbƒhƒKƒ‹ƒh‚ΕΕ‚ΰ‹­x‚Ε
+‚ ‚ι‚Ζ’m‚η‚κ‚Δ‚Ά‚ιz•¨‚Μ
+ƒ“x‚π‚‚ί‚Δ‘g‚‡‚ν‚ΉA
+Έ»‚µ‚½•¨ΏB
+“Α‚Ι”M‚Ι‹­‚Ά‘Ο‹v«‚π‚Β‚ª
+‰ΑH‚·‚ι‚Μ‚ª‚Ζ‚Δ‚ΰ“ο‚µ‚Ά
+‚Ζ‚Ά‚¤B
+\\\\\\\\\\\\\
+d—Κ : ^7777770^000000
+
+
+
+Parse error near the following entry:
+(near to:
+22038 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+5775 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+19720 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+17295 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+19598 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+J‚―‚ι‚Ζί‘•‘•”υ‚ª”ς‚Ρo‚·
+•sv‹c‚Θ‚½‚‚²B
+\\\\\\\\\\\\\
+Θ‰Ί‚Μί‘•‘•”υ‚Μ‚Ά‚Έ‚κ‚©
+1‚Β‚ªƒ‰ƒ“ƒ_ƒ€‚Εo»‚·‚ιB^0000FF
+E[ί‘•] ƒ_[ƒNƒlƒXƒwƒ‹ƒ€
+E[ί‘•] ‚½‚κƒWƒ‡ƒ“ƒ_
+E[ί‘•] •‰ƒƒKƒl
+E[ί‘•] ƒ}ƒWƒFƒXƒeƒBƒbƒN
+@@@@   ƒfƒrƒ‹ƒz[ƒ“
+E[ί‘•] Ή‰Ξ¥
+E[ί‘•] ‚½‚κƒfƒBƒtƒH
+@@@@   ƒ‹ƒe[l`
+E[ί‘•] ƒpƒ“‘
+E[ί‘•] ^g‚ΜεKεN
+E[ί‘•] ‚³‚·‚η‚ΆT‚Μ–Xq
+E[ί‘•] ƒfƒrƒ‹ƒƒ“ƒO–X^000000
+\\\\\\\\\\\\\
+d—Κ : ^7777771^000000
+
+
+
+Parse error near the following entry:
+(near to:
+19721 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+19722 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+19723 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+19724 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+19725 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+19726 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+19727 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+19728 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+19741 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+22039 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+1596 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+15102 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+18676 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+18878 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+20726 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+13440 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+2022 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+21007 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+2499 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+2949 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+15066 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+22001 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+22002 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+22003 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+22004 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+22005 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+22006 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+22007 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+22008 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+22009 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+22010 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+22011 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+6607 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+6608 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+Τ‚ªc‚ρ‚Ε‚Ά‚ικ‚Ε
+‹H‚Ι”­©‚³‚κ‚ι¬‚³‚Θ‹»B
+–‚–@‚ΕΕ`‰»‚³‚κ‚½
+u—¬‚κ‚ιΤv‚Μ”j•Π‚Ζ
+—‚½‚ζ‚¤‚Θ•¨B
+\\\\\\\\\\\\\
+d—Κ : ^7777771^000000
+
+
+
+Parse error near the following entry:
+(near to:
+6609 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+Τ‚π“n‚Α‚Δs‚―‚ι‚ζ‚¤
+J‚©‚κ‚½–‚–@w‚Μ‰e‹Ώ‚Ε
+”­¶‚µ‚½•¨ΏB
+­‚µ_‚η‚©‚ΆB
+\\\\\\\\\\\\\
+d—Κ : ^7777771^000000
+
+
+
+Parse error near the following entry:
+(near to:
+6610 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+ƒAƒ“ƒfƒbƒh‚Ι‚Θ‚Α‚Δ‚µ‚‚Α‚½
+–SÒ‚½‚Ώ‚Μ’B
+”δr“IγY—ν‚Θ‚ζ‚¤‚ΎB
+‚Θ‚Ί‚©ϋW•i¤l‚Ι”„‚κ‚ιB
+\\\\\\\\\\\\\
+d—Κ : ^7777771^000000
+
+
+
+Parse error near the following entry:
+(near to:
+6611 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+ƒAƒ“ƒfƒbƒh‚Ι‚Θ‚Α‚Δ‚µ‚‚Α‚½
+–SÒ‚½‚Ώ‚Μ•B
+‚Θ‚Ί‚©ϋW•i¤l‚Ι”„‚κ‚ιB
+\\\\\\\\\\\\\
+d—Κ : ^7777771^000000
+
+
+
+Parse error near the following entry:
+(near to:
+6612 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+ζ‚Αθ•”•ª‚ªΈ–§‚Ε
+‰Ψ—ν‚Ι‘•‚³‚κ‚½‹ΰ‚Μ®B
+‚Η‚Μ”ΰ‚Μ®‚©‚Ν•s–Ύ‚Ύ‚ªA
+®‚Ύ‚―‚Ε‚ΰ‚‰Ώ‚Ι©‚¦‚ιB
+\\\\\\\\\\\\\
+d—Κ : ^7777771^000000
+
+
+
+Parse error near the following entry:
+(near to:
+6613 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+‹ΰ‰‚ª‘ςR
+‚Ν‚Ά‚Α‚Δ‚Ά‚ι‚©‚²B
+’†‚Ι“‚Α‚Δ‚Ά‚ι‹ΰ‰‚Μ
+•\‚Ι‚Νπ·‚µ‚½ƒƒV
+— ‚Ι‚Νπ·‚µ‚½“ρ‚Β‚Μ‘„
+‚ªΧH‚³‚κ‚Δ‚Ά‚ιB
+uA.W669ς
+ƒƒOƒi[.F.ƒGƒ”ƒFƒlv
+\\\\\\\\\\\\\
+d—Κ : ^77777720^000000
+
+
+
+Parse error near the following entry:
+(near to:
+4875 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+‘ε‚«‚­‚Δ”‚µ‚Άƒ‹ƒr[‚Ε
+‘•‚³‚κ‚½ƒuƒ[ƒ`B
+”’‚ΆƒzƒRƒ‚ªΟ‚ΰ‚θ
+ƒsƒ“‚ΰ–³‚­‚Θ‚Α‚Δ‚Ά‚ι‚ª
+‚‚Ύ”‚µ‚­υ‚Α‚Δ‚Ά‚ιB
+— ‚Ι¬‚³‚­ΧH‚³‚κ‚½
+•¶‚ª‚‚κ‚Δ‚Ά‚ιB
+uƒƒxƒ“ƒuƒ‹ƒN.F.ƒGƒAƒƒq‚Μ
+10‰ρ–Ϊ‚Μ’a¶“ϊ‚πj‚¤Bv
+\\\\\\\\\\\\\
+d—Κ : ^7777771^000000
+
+
+
+Parse error near the following entry:
+(near to:
+4876 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+•¨—U‚‚πσ‚―‚½A
+κ’θm—¦‚Ε5•bΤA
+ƒ‚ƒ“ƒXƒ^[uƒrƒbƒOƒtƒbƒgv
+‚Ι•Οg
+\\\\\\\\\\\\\
+ƒ‚ƒ“ƒXƒ^[uƒrƒbƒOƒtƒbƒgv
+‚Ι•ΟgAStr + 200
+1•b–‚ΙHP - 500
+
+
+
+Parse error near the following entry:
+(near to:
+4877 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–‚–@U‚–½’†A
+κ’θm—¦‚Ε10•bΤA
+[–\‘–‚µ‚½–‚—Ν]”­“®
+\\\\\\\\\\\\\
+[–\‘–‚µ‚½–‚—Ν]”­“®A
+Int + 200
+1•b–‚ΙSP - 200
+
+
+
+Parse error near the following entry:
+(near to:
+4878 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+•¨—U‚–½’†A
+κ’θm—¦‚Ε5•bΤA
+[υ‘¬]”­“®
+\\\\\\\\\\\\\
+[υ‘¬]”­“®A
+U‚‘¬“x + 100%
+®‘S‰ρ”π + 100
+1•b–‚ΙHP - 400 , SP - 40
+
+
+
+Parse error near the following entry:
+(near to:
+4879 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+•¨—U‚‚πσ‚―‚½A
+κ’θm—¦‚Ε5•bΤA
+[|Z]”­“®
+\\\\\\\\\\\\\
+[|Z]”­“®A
+•¨—U‚‚Ε
+—^‚¦‚ιƒ_ƒ[ƒW - 50%
+Matk - 50%
+Def + 1000
+
+
+
+Parse error near the following entry:
+(near to:
+4880 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+•¨—U‚–½’†A
+κ’θm—¦‚Ε5•bΤA
+[‘εh‚Μαυ]”­“®
+\\\\\\\\\\\\\
+[‘εh‚Μαυ]”­“®A
+Dex + 200
+1•b–‚ΙSP - 50
+
+
+
+Parse error near the following entry:
+(near to:
+4869 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+•¨—A–‚–@U‚–½’†A
+κ’θm—¦‚Ε5•bΤA
+[K‰^‚Θ“ϊ]”­“®
+\\\\\\\\\\\\\
+•¨—A–‚–@U‚‚πσ‚―‚½A
+κ’θm—¦‚Ε5•bΤA
+[K‰^‚Θ“ϊ]”­“®
+\\\\\\\\\\\\\
+[K‰^‚Θ“ϊ]”­“®A
+Luk + 200
+ƒ‚ƒ“ƒXƒ^[‚π“|‚µ‚½A
+κ’θm—¦‚Ε
+[•σ” ]‚πƒhƒƒbƒv
+
+
+
+Parse error near the following entry:
+(near to:
+4872 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+U‚‘¬“x + 4%
+
+
+
+Parse error near the following entry:
+(near to:
+4873 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+U‚‘¬“x + 6%
+
+
+
+Parse error near the following entry:
+(near to:
+4881 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+U‚‘¬“x + 8%
+
+
+
+Parse error near the following entry:
+(near to:
+4822 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+U‚‘¬“x + 10%
+
+
+
+Parse error near the following entry:
+(near to:
+2188 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+Atk + 24 , Hit + 5
+
+
+
+Parse error near the following entry:
+(near to:
+18861 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+18862 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+18863 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+18864 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+17305 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+19767 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+J‚―‚ι‚Ζί‘•‘•”υ‚ª”ς‚Ρo‚·
+•sv‹c‚Θ‚½‚‚²B
+\\\\\\\\\\\\\
+Θ‰Ί‚Μί‘•‘•”υ‚Μ‚Ά‚Έ‚κ‚©
+1‚Β‚ªƒ‰ƒ“ƒ_ƒ€‚Εo»‚·‚ιB^0000FF
+E[ί‘•] —J‹½‚ΜƒTƒNƒ‰
+E[ί‘•] ‚β‚ρ‚Ώ‚α‚Θ
+@@@@   —dΈ‚Μ¨
+E[ί‘•] χ‰Τ¥
+E[ί‘•] ‚Ά‚½‚Έ‚η‚Θ—dΈ
+E[ί‘•] ^‚ΑΤ‚Θ”t
+E[ί‘•] ’±‚ΜƒwƒAƒsƒ“
+E[ί‘•] ƒ~ƒcƒoƒ`‚Μ–Xq
+E[ί‘•] ƒGƒ“ƒWƒFƒƒ“ƒO
+@@@@   ƒwƒAƒsƒ“
+E[ί‘•] c’ι‚Μj¥
+E[ί‘•] ƒ}[ƒ”ƒFƒ‰ƒX
+@@@@   ƒAƒtƒ‚©‚Β‚η^000000
+\\\\\\\\\\\\\
+d—Κ : ^7777771^000000
+
+
+
+Parse error near the following entry:
+(near to:
+19768 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+19769 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+19770 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+19771 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+19772 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+19773 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+19774 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+19775 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+19776 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+18667 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+5865 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+5866 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+5867 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+15103 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+15104 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+20725 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+2189 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+19740 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+7773 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+2983 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+ƒ‰ƒCƒoƒ‹‚π“|‚µ‚½Ψ
+\\\\\\\\\\\\\
+d—Κ : ^7777770^000000
+
+
+
+Parse error near the following entry:
+(near to:
+2984 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+18865 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+18866 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+18867 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+18875 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+18876 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+18877 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+6728 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+6729 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+®_‚Μ‰τL“ΰ‚Μ–ε‚π
+J‚―‚ι‚±‚Ζ‚ª‚Ε‚«‚ι®B
+”κF‚Μ—ƒ‚π–Ν‚µ‚½‘•‚ª
+“Α’¥“I‚ΕAΤF‚Μ–ε‚π
+J‚―‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+\\\\\\\\\\\\\
+d—Κ : ^7777770^000000
+
+
+
+Parse error near the following entry:
+(near to:
+6730 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+®_‚Μ‰τL“ΰ‚Μ–ε‚π
+J‚―‚ι‚±‚Ζ‚ª‚Ε‚«‚ι®B
+‘“F‚Μ—Ψ‚π–Ν‚µ‚½‘•‚ª
+“Α’¥“I‚ΕAΒF‚Μ–ε‚π
+J‚―‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+\\\\\\\\\\\\\
+d—Κ : ^7777770^000000
+
+
+
+Parse error near the following entry:
+(near to:
+6731 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+®_‚Μ‰τL“ΰ‚Μ–ε‚π
+J‚―‚ι‚±‚Ζ‚ª‚Ε‚«‚ι®B
+—ΞF‚Μ’‚π–Ν‚µ‚½‘•‚ª
+“Α’¥“I‚ΕA—ΞF‚Μ–ε‚π
+J‚―‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+\\\\\\\\\\\\\
+d—Κ : ^7777770^000000
+
+
+
+Parse error near the following entry:
+(near to:
+18884 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+®_‚Μ‰τL“ΰ‚Μ–ε‚π
+J‚―‚ι‚±‚Ζ‚ª‚Ε‚«‚ι®B
+‰©F‚Μ‰ε‚π–Ν‚µ‚½‘•‚ª
+“Α’¥“I‚ΕA‰©F‚Μ–ε‚π
+J‚―‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+\\\\\\\\\\\\\
+d—Κ : ^7777770^000000
+
+
+
+Parse error near the following entry:
+(near to:
+7398 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+7467 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+utΰ£–ƒ`ƒPƒbƒgv‚ª
+“‚Α‚½” B
+\\\\\\\\\\\\\
+^FF0000‚±‚ΜƒAƒCƒeƒ€‚Μ——pϊΤ‚ΝA
+2013”N423“ϊ’θϊ
+ƒƒ“ƒeƒiƒ“ƒXI—Ή‚©‚η
+2013”N57“ϊ’θϊ
+ƒƒ“ƒeƒiƒ“ƒXJn‚‚Ε
+‚Ζ‚Θ‚θ‚‚·^000000
+\\\\\\\\\\\\\
+^FF0000tΰ£–ƒ`ƒPƒbƒg‚ΝA
+2013”N52“ϊ‚‚Ε
+——p‚Ε‚«‚‚·^000000
+\\\\\\\\\\\\\
+d—Κ : ^7777770^000000
+
+
+
+Parse error near the following entry:
+(near to:
+17300 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+ƒCƒxƒ“ƒg‚ΜQ‰Α‚Ι•K—v‚Θ
+“Α•Κ‚Θƒ`ƒPƒbƒgB
+‚±‚Μƒ`ƒPƒbƒg‚π
+ς…‚Μ‘ ƒAƒ}ƒc‚Ι‚Ά‚ι
+uƒCƒxƒ“ƒgƒ}ƒV[ƒ“v‚Ι
+”[•i‚µ‚ζ‚¤I
+\\\\\\\\\\\\\
+^FF0000tΰ£–ƒ`ƒPƒbƒg‚ΝA
+2013”N52“ϊ‚‚Ε
+——p‚Ε‚«‚‚·^000000
+\\\\\\\\\\\\\
+^FF0000tΰ£–ƒ`ƒPƒbƒg‚ΝA
+” ‚πJ‚―‚Δ‚©‚η264Τγ‚Ι
+©“®“I‚ΙΑ–Ε‚µ‚‚·^000000
+\\\\\\\\\\\\\
+d—Κ : ^7777770^000000
+
+
+
+Parse error near the following entry:
+(near to:
+19743 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+J‚―‚ι‚Ζί‘•‘•”υ‚ª”ς‚Ρo‚·
+•sv‹c‚Θ‚½‚‚²B
+\\\\\\\\\\\\\
+Θ‰Ί‚Μί‘•‘•”υ‚Μ‚Ά‚Έ‚κ‚©
+1‚Β‚ªƒ‰ƒ“ƒ_ƒ€‚Εo»‚·‚ιB^0000FF
+E[ί‘•] ƒZƒCƒ“ƒg
+@@@@@ƒtƒƒ‹ƒƒ{ƒ“
+E[ί‘•] •μ‚·‚ιÒ‚Μ—ƒ
+E[ί‘•] υ‚ΖΕ‚Μ’Α°¥
+E[ί‘•] ƒAƒkƒrƒX‚Μ–Xq
+E[ί‘•] ½•‚Μƒƒ{ƒ“
+E[ί‘•] ^‚ΑΤ‚Θ
+@@@@@ƒ}[ƒ`ƒ“ƒOƒnƒbƒg
+E[ί‘•] Γ•‚Μƒt[ƒh
+E[ί‘•] ƒ^ƒiƒgƒX‚Μ
+@@@@@β–]‰Ό–Κ
+E[ί‘•] ƒ_ƒCƒAƒfƒ€
+E[ί‘•] ‹ΰ‚Μ°‚Μƒƒ“ƒO^000000
+\\\\\\\\\\\\\
+d—Κ : ^7777771^000000
+
+
+
+Parse error near the following entry:
+(near to:
+19744 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+19745 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+19746 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+19747 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+19748 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+19749 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+19750 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+19751 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+19752 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+19763 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+2915 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+2916 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+2917 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+2918 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+2919 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+2920 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+2921 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+2922 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+2923 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+2924 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+2925 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+2926 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+2927 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+2928 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+6539 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+6540 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–{—‚Ν”‚µ‚Ά
+ƒlƒbƒNƒƒX‚Ύ‚Α‚½‚ζ‚¤‚ΎB
+\\\\\\\\\\\\\
+d—Κ : ^7777770^000000
+
+
+
+Parse error near the following entry:
+(near to:
+6541 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+ƒz[ƒ€ƒcƒ[‚©‚η—‚Ώ‚½
+‰©‹ΰF‚Μ—tB
+\\\\\\\\\\\\\
+d—Κ : ^7777770^000000
+
+
+
+Parse error near the following entry:
+(near to:
+6542 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–‚wÒƒGƒCƒ”ƒ@ƒ“ƒg‚ª
+ƒI[ƒu‚Μ–‚—Ν‚Ι‚Β‚Ά‚Δ
+¤‹†‚µ‚½‘—ΏB
+ƒI[ƒu‚Ι–‚—Ν‚ª‹ΓW‚³‚κ‚ι
+΄—‚ΖA–‚—Ν‚π’o‚µ‚Δ
+—p‚·‚ι“™‚ΜA‘S”Κ“I‚Θ¤‹†
+‹y‚Ρΐ±“ΰ—e‚ª‹L^‚³‚κ‚Δ
+‚Ά‚ιB
+\\\\\\\\\\\\\
+d—Κ : ^7777770^000000
+
+
+
+Parse error near the following entry:
+(near to:
+6545 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+ƒA[ƒ‹ƒuƒwƒCƒ€‚ΜX‚Εη‚Α‚½
+“ΑΩ‚ΘƒLƒmƒR‚Ε©‚½–Ϊ‚ζ‚θ‚ΰ
+d‚½‚ΆB
+“Α’θ‚Μ–ς‚Μ—Ώ‚Ι‚Θ‚ιB
+\\\\\\\\\\\\\
+d—Κ : ^77777710^000000
+
+
+
+Parse error near the following entry:
+(near to:
+6546 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+ƒTƒtƒ@‘°‚ΜΨ‚θζ‚η‚κ‚½”―B
+–Ψ‚Μ}‚Μ‚ζ‚¤‚Ι©‚¦‚ιB
+\\\\\\\\\\\\\
+d—Κ : ^7777770^000000
+
+
+
+Parse error near the following entry:
+(near to:
+6547 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+Z‚πS”z‚·‚ι’ν‚Μ
+S‚ª‚±‚ΰ‚Α‚½θ†B
+\\\\\\\\\\\\\
+d—Κ : ^7777770^000000
+
+
+
+Parse error near the following entry:
+(near to:
+6548 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+•Οg•ϋ–@‚ª‘‚©‚κ‚Δ‚Ά‚ι
+λ―‚Θ¤‹†‘B
+‚ ‚Ώ‚±‚Ώ‚Ι•s‹g‚Θ΄‚¶‚Μ
+‰‚κ‚ª•t’…‚µ‚Δ‚Ά‚ιB
+\\\\\\\\\\\\\
+d—Κ : ^7777770^000000
+
+
+
+Parse error near the following entry:
+(near to:
+6552 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+γ‹‰ƒ‰ƒtƒBƒl‚Μ‰H‚Μκ•”B
+ƒZ[ƒu‚µ‚½‚Ιƒ[ƒv‚µ‚»‚¤
+‚Ύ‚ªcc‚»‚ρ‚Θψ”\‚Ν‚Θ‚ΆB
+\\\\\\\\\\\\\
+d—Κ : ^7777770^000000
+
+
+
+Parse error near the following entry:
+(near to:
+6553 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+ƒXƒvƒƒ“ƒfƒBƒbƒh‚Ε
+ƒGƒNƒ‰[ƒWƒ…‚Ι‘—‚ι—lX‚Θ
+θ†‚πW‚ί‚Δ“‚κ‚½” B
+‚Ω‚Ζ‚ρ‚Η‚ª‚¨‚Ά‚Μΐ”‚π
+m”F‚·‚ι„“I‚Θθ†‚ΎB
+\\\\\\\\\\\\\
+d—Κ : ^7777770^000000
+
+
+
+Parse error near the following entry:
+(near to:
+6554 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–Ψ‚Μ—t‚πτd‚Ι‚ΰd‚Λ‚½A
+‹­“x‚Ι•sΐ‚π΄‚¶‚ι
+‹΄»μ—p‚Μ‘ε‚«‚Θ‰ςB
+‘ε—Κ¶Y‚Μ‚½‚ί‚Ι3mA5mA
+10m’PΚ‚Εμ‚Α‚Δ‚Ά‚ιB
+\\\\\\\\\\\\\
+d—Κ : ^7777770^000000
+
+
+
+Parse error near the following entry:
+(near to:
+6555 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+Τ‚Άνq‚Ζ—Ξ‚Μνq‚Μ
+‰^”ΐ‚Ιg—p‚³‚κ‚ι” B
+” ‚Μ— ‚Ι[ζ‚θµ‚Ά’Σ]‚Ζ
+‘ε‚«‚­‘‚©‚κ‚Δ‚Ά‚ιB
+\\\\\\\\\\\\\
+d—Κ : ^7777770^000000
+
+
+
+Parse error near the following entry:
+(near to:
+6557 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+’a¶“ϊ‚πj‚¤AƒP[ƒL‚Ι
+”N—ξ‚Μ•ª·‚µ‚ρ‚Εg‚¤B
+’·‚Ά‚Μ‚Ν10ΞA’Z‚Ά‚Μ‚Ν1Ξ
+‚ΜΣ–΅‚Εg‚ν‚κ‚ι‚Ζ‚Ά‚¤B
+\\\\\\\\\\\\\
+d—Κ : ^7777770^000000
+
+
+
+Parse error near the following entry:
+(near to:
+6558 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+‘ε‚«‚­‚Δ”hθ‚Θ—dΈ‚Μ‰HB
+‚‚­”„‚κ‚ι‚η‚µ‚ΆB
+\\\\\\\\\\\\\
+d—Κ : ^7777771^000000
+
+
+
+Parse error near the following entry:
+(near to:
+6559 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+”MS‚ΙW‚ί‚η‚κ‚½‘ε—Κ‚Μ
+¬‚³‚Θ‚Η‚ρ‚®‚θB
+¬‚³‚·‚¬‚Δ‘ε—Κ‚ΙW‚ί‚Δ‚ΰ
+θ‚Μ•½‚Μ’†‚Ι“‚ι—Κ‚Ε‚ ‚ιB
+\\\\\\\\\\\\\
+d—Κ : ^7777771^000000
+
+
+
+Parse error near the following entry:
+(near to:
+6560 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–Ϊ‚ª£‘‡‚µ‚½‚Ζ‚«‚Ι‚³‚Ή‚Ξ
+‹E‚ª‚·‚Α‚«‚θ‚Ζ‘N–Ύ‚Ι‚Θ‚ι
+¬‚³‚Θƒ|[ƒVƒ‡ƒ“B
+5ml‚Μ‚ΰ‚Μ‚ΎB
+\\\\\\\\\\\\\
+d—Κ : ^7777771^000000
+
+
+
+Parse error near the following entry:
+(near to:
+6561 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–{‚Μ’†‚Ι‘}‚µ‚½‚‚A
+‚©‚Θ‚θ’·‚ΆΤ–Y‚κ‚η‚κ‚½‚©‚Μ
+‚ζ‚¤‚Θ‚µ‚¨‚θB
+’·‚ΆΞ‚ΕƒJƒTƒJƒT‚Ι£‚«A
+G‚κ‚Ξ‚±‚Θ‚²‚Θ‚Ι‚Θ‚Α‚Δ
+‚µ‚‚Ά‚»‚¤‚ΎB
+\\\\\\\\\\\\\
+d—Κ : ^7777771^000000
+
+
+
+Parse error near the following entry:
+(near to:
+6562 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+΅‚Ι‚ΰ‚Ξ‚η‚Ξ‚η‚Ι”ς‚ρ‚Ε
+‹z‚Ά‚ρ‚Ύl‚Ι—lX‚Θ
+•a‹C‚π—U”­‚³‚Ή‚»‚¤‚ΎB
+\\\\\\\\\\\\\
+d—Κ : ^7777771^000000
+
+
+
+Parse error near the following entry:
+(near to:
+6563 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+ƒhƒ~ƒjƒN‚Μ‹ί‚­‚Ιs‚Α‚Δ
+“‚°‚Δ‚‚ζ‚¤B
+‚Λ‚Έ‚‚π™‚¤ƒhƒ~ƒjƒN‚Θ‚η
+‹Β“V‚·‚ι‚Ύ‚λ‚¤B
+\\\\\\\\\\\\\
+d—Κ : ^7777770^000000
+
+
+
+Parse error near the following entry:
+(near to:
+12812 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+κ‚π‘I‚Ξ‚Έ’‚β‚©‚Ιη‚Β
+G‘B
+–{’I‚Μ‹ί‚­‚ΙA‚¦‚Δ‚±‚ζ‚¤B
+\\\\\\\\\\\\\
+d—Κ : ^7777770^000000
+
+
+
+Parse error near the following entry:
+(near to:
+12813 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+α‚Μ‚ζ‚¤‚Ι^‚Α”’‚Θ‚¤‚¦‚ΙA
+G‚ι‚Ζ—β‚½‚Ά•sv‹c‚Θ
+‰Τ‚Ρ‚ηB
+α‚ζ‚θ—β‚½‚Ά‚ΖΎ‚ν‚κ‚Δ
+‚Ά‚ι‚Μ‚Εg—p‚Ι‚Ν’ΣB
+‘Ό‚Μl‚Μ•‚Μ’†‚Ι“‚κ‚ι
+‚Ά‚½‚Έ‚η‚Ν‚»‚Μl‚ΜS‘‚Ι
+”ρν‚Ι—Η‚­‚Θ‚ΆB
+\\\\\\\\\\\\\
+^000088”­‰ΞAoA[‚Ά‡–°A‡–°^000000
+‚π΅—Γ‚·‚ι
+\\\\\\\\\\\\\
+Δg—p‘Ò‹@Τ5•b
+\\\\\\\\\\\\\
+d—Κ : ^7777771^000000
+
+
+
+Parse error near the following entry:
+(near to:
+12814 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+•sv‹c‚Θ‚±‚Ζ‚ΙƒAƒcƒAƒc‚Μ
+‰·“x‚π‚Α‚½“F‚Μ‰Τ‚Ρ‚ηB
+—c‚Ά‚Μ•κ‚Μ‰·‚ΰ‚θ‚ª
+©‘R‚Ιv‚Ά•‚‚©‚Τ‰·“x‚Ζ
+Ύ‚ν‚κ‚Δ‚Ά‚ιB
+΄σ«–L‚©‚Θl‚Ιg—p‚·‚ι‚Ζ
+—‚ª“Λ‘Rμ‚κ‚ι‚±‚Ζ‚ΰ‚ ‚ιB
+\\\\\\\\\\\\\
+^000088“€‹A—β“€A•X‹^000000
+‚π΅—Γ‚·‚ι
+\\\\\\\\\\\\\
+Δg—p‘Ò‹@Τ5•b
+\\\\\\\\\\\\\
+d—Κ : ^7777771^000000
+
+
+
+Parse error near the following entry:
+(near to:
+12815 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–j‚π‚Ò‚µ‚α‚θ‚Ζ’£‚η‚κ‚½
+‚ζ‚¤‚Θ΄‚¶‚ª‚·‚ι‚Ω‚ΗA
+‹­—σ‚Θ‚θ‚π‚Βƒn[ƒuB
+ΣO‚Ι‚³‚ν‚β‚©‚Ύ‚Ζ΄‚¶‚Δ‚ΰ
+Ύ‚ν‚Θ‚Ά‚ζ‚¤‚ΙB
+‚θ‚©‚η‚Μ‹‚π
+•α‚Ε‚«‚‚Ή‚ρB
+\\\\\\\\\\\\\
+^000088ƒXƒ^ƒ“A‹°•|A¬—A¶o^000000
+‚π΅—Γ‚·‚ι
+\\\\\\\\\\\\\
+Δg—p‘Ò‹@Τ5•b
+\\\\\\\\\\\\\
+d—Κ : ^7777771^000000
+
+
+
+Parse error near the following entry:
+(near to:
+19543 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–½‚Μ…A_Ή‚Θ–Ψ‚ΖΔ‚Ξ‚κ‚ι
+ƒCƒOƒhƒ‰ƒVƒ‹‚ΜAs—t‚Θ‚Η‚Ι
+ζ‚Α‚Δ‚Ά‚½‚Ω‚±‚θB
+‚Ω‚±‚θ‚ΖΎ‚Α‚Δ‚ΰA’·‚ΆΞ
+–½‚Μ…‚Μ‰e‹Ώ‚πσ‚―‚½‚½‚ίA
+ς‰»”\—Ν‚ª—D‚κ‚Δ‚Ά‚ιB
+\\\\\\\\\\\\\
+^000088Ξ‰»AΓ•Aτ‚ΆA
+“ΕA‘¬“xΈ­ A
+ƒƒo[ƒXƒI[ƒLƒbƒVƒ…^000000
+‚π΅—Γ‚·‚ι
+\\\\\\\\\\\\\
+Δg—p‘Ò‹@Τ5•b
+\\\\\\\\\\\\\
+d—Κ : ^7777771^000000
+
+
+
+Parse error near the following entry:
+(near to:
+19545 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+19546 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+19549 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+19550 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+19551 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+19552 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+19553 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+19554 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+14676 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+5762 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+RJC2013‚Ι‚¨‚Ά‚ΔA
+—DG‚ΘνΡ‚πc‚µ‚½Ò‚Ι
+‘΅‚η‚κ‚ι“Α•Κ‚ΘƒJ[ƒh’B
+g—p‚·‚ι‚ΖAMVP‚π‚
+‘S‚Δ‚Μƒ{ƒXƒ‚ƒ“ƒXƒ^[ƒJ[ƒh
+‚©‚η1–‡ƒ‰ƒ“ƒ_ƒ€‚Ε
+“θ‚Ε‚«‚ιB
+\\\\\\\\\\\\\
+^FF0000γ‹L“Ακψ‰Κ‚Ν
+2013”N625“ϊ
+’θϊƒƒ“ƒeƒiƒ“ƒXI—Ή‚Ι
+Α–Ε‚·‚ι^000000
+\\\\\\\\\\\\\
+d—Κ : ^7777770^000000
+
+
+
+Parse error near the following entry:
+(near to:
+5780 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+15106 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+18630 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+18808 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+20728 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+22042 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+19733 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+17301 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+19753 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+J‚―‚ι‚Ζί‘•‘•”υ‚ª”ς‚Ρo‚·
+•sv‹c‚Θ‚½‚‚²B
+\\\\\\\\\\\\\
+Θ‰Ί‚Μί‘•‘•”υ‚Μ‚Ά‚Έ‚κ‚©
+1‚Β‚ªƒ‰ƒ“ƒ_ƒ€‚Εo»‚·‚ιB^0000FF
+E[ί‘•] “ψF‚Μƒ”ƒF[ƒ‹
+E[ί‘•] K•‚Ζ•½a‚ΜΨ
+E[ί‘•] ƒzƒƒCƒgƒƒ[
+E[ί‘•] ‘ε‹σ‚Μ–Xq
+E[ί‘•] ^ΐ‚Μ¤
+E[ί‘•] ‘Ύ‹Ι‚Μ¨‚θ
+E[ί‘•] Ή•κ‚Μ¤
+E[ί‘•] ‡@‚Μ¥
+E[ί‘•] ‚©‚¦‚ι‰¤q‚Μ–Xq
+E[ί‘•] ƒAƒ“ƒuƒƒ‰ƒnƒbƒg^000000
+\\\\\\\\\\\\\
+d—Κ : ^7777771^000000
+
+
+
+Parse error near the following entry:
+(near to:
+19754 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+19755 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+19756 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+19757 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+19758 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+19759 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+19760 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+19761 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+19762 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+19789 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+19790 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+18905 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+19735 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+19638 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+7673 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+2994 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+ƒhƒ‰”LƒNƒƒ‚‚©‚η–α‚Α‚½
+ƒ|ƒƒ“‚ª•`‚©‚κ‚½ƒRƒCƒ“B
+‚±‚ΜƒRƒCƒ“‚πW‚ί‚ι‚Ζ
+ƒNƒƒ‚‚©‚η“Α•Κ‚ΘƒAƒCƒeƒ€‚Ζ
+π·‚Ε‚«‚ι‚ζ‚¤‚ΎB
+\\\\\\\\\\\\\
+d—Κ : ^7777770^000000
+
+
+
+Parse error near the following entry:
+(near to:
+15107 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+18903 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+18904 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+20729 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+19603 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+18906 in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+
+
+
+Parse error near the following entry:
+(near to:
+J‚―‚ι‚Ζί‘•‘•”υ‚ª”ς‚Ρo‚·
+•sv‹c‚Θ‚½‚‚²B
+\\\\\\\\\\\\\
+Θ‰Ί‚Μί‘•‘•”υ‚Μ‚Ά‚Έ‚κ‚©
+1‚Β‚ªƒ‰ƒ“ƒ_ƒ€‚Εo»‚·‚ιB^0000FF
+E[ί‘•] ”’”L‚Μƒt[ƒh
+E[ί‘•] ƒCƒrƒ‹ƒhƒ‹ƒCƒh–X
+E[ί‘•] Χα••‚¶‚Μ•ο‘Ρ
+E[ί‘•] ‚½‚κƒ‚ƒƒN‚Μ»g
+@@@@@ilΤ^j
+E[ί‘•] ƒlƒNƒƒ}ƒ“ƒT[‚Μ
+@@@@@“ª‹Π
+E[ί‘•] ‚½‚κ”LƒNƒ‹[
+E[ί‘•] ‚ ‚­‚‚Μ‚³‚³‚β‚«
+E[ί‘•] [‚ΜƒRƒT[ƒWƒ…
+E[ί‘•] ƒqƒFƒOƒ“–X
+E[ί‘•] ‰©F‚Μ“ª‹Π^000000
+\\\\\\\\\\\\\
+d—Κ : ^7777771^000000
+ in file F:\Ragnarok Online\JRO_DATA1\data\num2itemdesctable.txt)
+
+
+–ΆΣ’θB[g‘ε‹Ύ]‚πg‚Α‚ΔΣ’θ‚·‚ι‚±‚Ζ‚ª‚Ε‚«‚ιB
+17325
+
+
