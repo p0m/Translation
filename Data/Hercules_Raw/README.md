@@ -1,8 +1,1 @@
-Translation
-===========
-
-Ragnarok Online ClientSide Translation Project. 
-
-Support Forum: http://hercules.ws/board/topic/398-client-translation-project/
-
-Use the Support Forum/Github Issues for ANY bugs found.
+ดึงมาวันที่  02:32  23/05/2558
