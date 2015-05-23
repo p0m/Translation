@@ -10,7 +10,7 @@ tbl = {
 		identifiedDisplayName = "Red Potion",
 		identifiedResourceName = "»¡°£Æ÷¼Ç",
 		identifiedDescriptionName = {
-			"¹éÓÂÒÊÓËÃÑº¿×é¹ HP »ÃÐÁÒ³ ^00008845^000000 ·ÓÁÒ¨Ò¡ Red Herbs",
+			"แตดÓËÃÑº¿×é¹ HP »ÃÐÁÒ³ ^00008845^000000 ·ÓÁÒ¨Ò¡ Red Herbs",
 			"¹éÓË¹Ñ¡ : ^7777777^000000",
 		},
 		slotCount = 0,
