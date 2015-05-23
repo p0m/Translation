@@ -1,6 +1,8 @@
 iteminfo.lua
 -
-1_iteminfo.lua itemID : 501-3737 ของจิปาถะ
+1_iteminfo.lua itemID : 501-1964
+
+                        3737 ของจิปาถะ
 
 2_iteminfo.lua itemID : 4001-4641 การ์ด
 
@@ -9,3 +11,6 @@ iteminfo.lua
 4_iteminfo.lua itemID : 9001-14766 ใข่,ของกดใช้(cash)
 
 5_iteminfo.lua itemID : 15000-  ของสวมใส่
+
+
+** "X"th_iteminfo.lua คือไฟล์ที่ convert ผ่านTool ต้องเช็คอีกที
