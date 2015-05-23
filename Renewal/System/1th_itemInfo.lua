@@ -3,7 +3,7 @@ tbl = {
 		unidentifiedDisplayName = "Red Potion",
 		unidentifiedResourceName  = "ปกฐฃฦ๗ผว",
 		unidentifiedDescriptionName = {
-			"น้ำยาสำหรับฟื้น HP ประมาณ ^00008845^000000 ทำมาจาก Red Herbs",
+			"น้ำยาสำหรับฟื้น HP ประมาณ ^00008845^000000 ทำมาจาก Red Herbs ",
 			"^ffffff_^000000",
 			"น้ำหนัก : ^7777777^000000",
 		},
